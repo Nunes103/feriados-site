@@ -3,7 +3,7 @@ export default function Cabecalho() {
     <header>
       <div className="nav-container">
         <div className="logo">
-          Hip<span>Not</span>Rip
+          Feriados Nacionais
         </div>
 
         <nav>
