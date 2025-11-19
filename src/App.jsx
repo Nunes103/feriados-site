@@ -2,7 +2,7 @@ import Cabecalho from "./componentes/Cabecalho";
 import Inicio from "./componentes/Inicio";
 import Historia from "./componentes/Historia";
 import Albuns from "./componentes/Albuns";
-import Pesquisar_feriados from "./componentes/Pesquisar_feriados";
+import Feriados from "./componentes/Feriados";
 import Rodape from "./componentes/Rodape";
 
 import "./estilos/global.css";
@@ -15,9 +15,8 @@ function App() {
       <main>
         <Inicio />
         <Historia />
-        <Artistas />
         <Albuns />
-        <CadastroBatalhas />
+        <Feriados />
       </main>
 
       <Rodape />
