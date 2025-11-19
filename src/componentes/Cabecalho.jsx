@@ -10,10 +10,8 @@ export default function Cabecalho() {
           <ul>
             <li><a href="#inicio">Início</a></li>
             <li><a href="#historia">História</a></li>
-            <li><a href="#artistas">Artistas</a></li>
-            <li><a href="#albuns">Álbuns</a></li>
-            <li><a href="#batalhas">Batalhas</a></li>
-            <li><a href="#contato">Contato</a></li>
+            <li><a href="#Aindanaosei">Aindanaosei</a></li>
+            <li><a href="#Feriados">Feriados</a></li>
           </ul>
         </nav>
       </div>
