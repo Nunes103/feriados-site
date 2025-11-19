@@ -15,7 +15,7 @@ function App() {
       <main>
         <Inicio />
         <Historia />
-        <Albuns />
+        <Aindanaosei />
         <Feriados />
       </main>
 
