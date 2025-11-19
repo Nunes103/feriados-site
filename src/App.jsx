@@ -1,9 +1,8 @@
 import Cabecalho from "./componentes/Cabecalho";
 import Inicio from "./componentes/Inicio";
 import Historia from "./componentes/Historia";
-import Artistas from "./componentes/Artistas";
 import Albuns from "./componentes/Albuns";
-import CadastroBatalhas from "./componentes/CadastroBatalhas";
+import Pesquisar_feriados from "./componentes/Pesquisar_feriados";
 import Rodape from "./componentes/Rodape";
 
 import "./estilos/global.css";
